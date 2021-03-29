@@ -1,0 +1,14 @@
+{
+  "name": "blog-ui-prototypes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:build-this-yourself/blog-ui-prototypes.git",
+  "author": "hammy-late-nite <git@hweeks.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server --baseDir=ideas"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
